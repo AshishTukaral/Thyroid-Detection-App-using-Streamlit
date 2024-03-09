@@ -23,6 +23,14 @@ Thyroid disorders, including hypothyroidism and hyperthyroidism, can have a prof
 
 The Thyroid Detection App using Streamlit utilizes a machine learning model trained on a comprehensive dataset of patient records to predict thyroid diagnoses with high accuracy. By inputting patient information such as age, sex, medical history, and laboratory test results, healthcare professionals can generate instant diagnosis predictions, enabling timely intervention and treatment.
 
+## Screenshots
+
+Screenshot 1
+![Image 1](Images/IMG_2.png)
+
+Screenshot 2
+![Image 2](Images/IMG_1.png)
+
 ## Key Features
 
 - **Efficiency:** Instant diagnosis predictions save time and facilitate faster patient care.
