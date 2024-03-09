@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with a table of contents:
-
----
-
 # Thyroid Detection App using Streamlit
 
 ## Table of Contents
